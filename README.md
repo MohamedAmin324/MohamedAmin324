@@ -11,11 +11,13 @@
 
 - 📫 How to reach me **mohamedaminebofficiel@gmail.com**
 
-- ⚡ Fun fact **I use to hate coding so much, never thought it will end up the thing I want to do the most**
+- ⚡ Fun fact **I used to hate coding so much, never thought it will end up the thing I want to do the most**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/constantcode9909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="constantcode9909" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohamed-amine-a49713242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-amine-a49713242" height="30" width="40" /></a>
+<a href="https://forum.freecodecamp.org/u/constantcode9909/summary" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=VbMADmY3D22e&format=png&color=000000" alt="FreeCodeCamp logo" height="40" width="40" /> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,6 +26,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedamin324&show_icons=true&locale=en&layout=compact" alt="mohamedamin324" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedamin324&show_icons=true&locale=en" alt="mohamedamin324" /></p>
+
 
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6471c955c872c0aff33d9e7a?variant=dark)](https://roadmap.sh)
